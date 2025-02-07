@@ -1,0 +1,6 @@
+Logistic regression is used for solving classification problem
+Types of classificatiion problem : 1)  Binary Classification 
+                                    2) Multiclass Classification
+Logistic regression is used for "Categorical Values"(eg : yes or no , any number)
+
+Here we pass the value to the sigmoid eqn and conver the value btw 0 and 1
